@@ -1,0 +1,139 @@
+#imgerti {
+    width: 146.683px;
+    height: 21.023px;
+    color: black;
+    padding: 13.489px;
+    display: inline block;
+    vertical-align: middle;
+}
+
+#link {
+    vertical-align: middle;
+    display: inline-block;
+    max-width: 700px;
+    margin-left: 150px;
+    margin-right: 100px;
+}
+
+#one {
+    font-weight: 600;
+    line-height: normal;
+    color: #FF5DA3;
+    text-decoration: none;
+    margin-left: 150px;
+}
+
+#two {
+    text-decoration: none;
+    gap: 20px;
+    margin-left: 20px;
+}
+
+#three {
+    text-decoration: none;
+    margin-left: 20px;
+}
+
+#for {
+    text-decoration: none;
+    gap: 20px;
+    margin-left: 20px;
+}
+
+#five {
+    text-decoration: none;
+    margin-left: 20px;
+}
+
+#buttonerti {
+    width: 105px;
+    height: 35px;
+    color: white;
+    background-color: green;
+    border-radius: 8px;
+}
+
+#hone {
+    color: #000;
+    text-align: center;
+    font-size: 72px;
+    font-weight: 700;
+
+}
+
+#pinktext {
+    color: #FF5DA3;
+    font-family: Inter;
+    font-weight: 700;
+    font-size: 72px;
+}
+
+#ptext {
+    color: #000;
+    font-weight: 400;
+    line-height: 32px;
+    text-align: center;
+}
+
+#htext {
+    color: #000;
+    text-align: center;
+    font-size: 48px;
+    font-weight: 700;
+}
+
+#textone {
+    color: #6941C6;
+    text-align: center;
+    font-weight: 400;
+    line-height: 32px;
+}
+
+#buttontwo {
+    width: 161px;
+    height: 50px;
+    color: white;
+    background-color: green;
+    border-radius: 8px;
+    text-align: center;
+}
+
+#divotxi {
+    margin: 0 auto;
+    text-align: center;
+}
+
+#footerdiv {
+    width: 100%;
+    height: 128px;
+    border: 4px #53389E solid;
+    background-color: #53389E;
+    margin-top: 1920px;
+    margin-top: 535px;
+    text-align: center;
+}
+
+#imgori {
+    width: 142px;
+    vertical-align: middle;
+    display: inline-block;
+    vertical-align: middle;
+    margin-top: 60px;
+}
+
+#listone,
+#listone,
+li {
+    display: inline-block;
+    color: white;
+    margin-right: 30px;
+    text-align: center;
+    vertical-align: middle;
+}
+
+#ptextori {
+    color: #D6BBFB;
+    vertical-align: middle;
+    display: inline-block;
+    vertical-align: middle;
+}
